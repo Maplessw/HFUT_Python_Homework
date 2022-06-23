@@ -1,0 +1,868 @@
+jsonp6({
+    "errno": 0,
+    "errmsg": "",
+    "data": {
+        "timeline_n1": [
+            {
+                "time": "2022-05-25",
+                "diagnosed": "89539",
+                "suspected": "0",
+                "hubei_diagnosed": "",
+                "hubei_suspected": "",
+                "exc_hubei_diagnosed": 89539,
+                "exc_hubei_suspected": 0,
+                "asymptomatic_add": "415"
+            },
+            {
+                "time": "2022-05-24",
+                "diagnosed": "82526",
+                "suspected": "0",
+                "hubei_diagnosed": "",
+                "hubei_suspected": "",
+                "exc_hubei_diagnosed": 82526,
+                "exc_hubei_suspected": 0,
+                "asymptomatic_add": "473"
+            },
+            {
+                "time": "2022-05-23",
+                "diagnosed": "66461",
+                "suspected": "1",
+                "hubei_diagnosed": "",
+                "hubei_suspected": "",
+                "exc_hubei_diagnosed": 66461,
+                "exc_hubei_suspected": 1,
+                "asymptomatic_add": "532"
+            },
+            {
+                "time": "2022-05-22",
+                "diagnosed": "79705",
+                "suspected": "0",
+                "hubei_diagnosed": "",
+                "hubei_suspected": "",
+                "exc_hubei_diagnosed": 79705,
+                "exc_hubei_suspected": 0,
+                "asymptomatic_add": "682"
+            },
+            {
+                "time": "2022-05-21",
+                "diagnosed": "84844",
+                "suspected": "0",
+                "hubei_diagnosed": "",
+                "hubei_suspected": "",
+                "exc_hubei_diagnosed": 84844,
+                "exc_hubei_suspected": 0,
+                "asymptomatic_add": "729"
+            },
+            {
+                "time": "2022-05-20",
+                "diagnosed": "85971",
+                "suspected": "0",
+                "hubei_diagnosed": "",
+                "hubei_suspected": "",
+                "exc_hubei_diagnosed": 85971,
+                "exc_hubei_suspected": 0,
+                "asymptomatic_add": "1010"
+            },
+            {
+                "time": "2022-05-19",
+                "diagnosed": "89660",
+                "suspected": "0",
+                "hubei_diagnosed": "",
+                "hubei_suspected": "",
+                "exc_hubei_diagnosed": 89660,
+                "exc_hubei_suspected": 0,
+                "asymptomatic_add": "990"
+            },
+            {
+                "time": "2022-05-18",
+                "diagnosed": "85364",
+                "suspected": "0",
+                "hubei_diagnosed": "",
+                "hubei_suspected": "",
+                "exc_hubei_diagnosed": 85364,
+                "exc_hubei_suspected": 0,
+                "asymptomatic_add": "870"
+            },
+            {
+                "time": "2022-05-17",
+                "diagnosed": "66109",
+                "suspected": "0",
+                "hubei_diagnosed": "",
+                "hubei_suspected": "",
+                "exc_hubei_diagnosed": 66109,
+                "exc_hubei_suspected": 0,
+                "asymptomatic_add": "1065"
+            },
+            {
+                "time": "2022-05-16",
+                "diagnosed": "61933",
+                "suspected": "0",
+                "hubei_diagnosed": "",
+                "hubei_suspected": "",
+                "exc_hubei_diagnosed": 61933,
+                "exc_hubei_suspected": 0,
+                "asymptomatic_add": "925"
+            },
+            {
+                "time": "2022-05-15",
+                "diagnosed": "68916",
+                "suspected": "0",
+                "hubei_diagnosed": "",
+                "hubei_suspected": "",
+                "exc_hubei_diagnosed": 68916,
+                "exc_hubei_suspected": 0,
+                "asymptomatic_add": "1076"
+            },
+            {
+                "time": "2022-05-14",
+                "diagnosed": "64251",
+                "suspected": "0",
+                "hubei_diagnosed": "",
+                "hubei_suspected": "",
+                "exc_hubei_diagnosed": 64251,
+                "exc_hubei_suspected": 0,
+                "asymptomatic_add": "1550"
+            },
+            {
+                "time": "2022-05-13",
+                "diagnosed": "65317",
+                "suspected": "0",
+                "hubei_diagnosed": "",
+                "hubei_suspected": "",
+                "exc_hubei_diagnosed": 65317,
+                "exc_hubei_suspected": 0,
+                "asymptomatic_add": "1796"
+            },
+            {
+                "time": "2022-05-12",
+                "diagnosed": "65794",
+                "suspected": "0",
+                "hubei_diagnosed": "",
+                "hubei_suspected": "",
+                "exc_hubei_diagnosed": 65794,
+                "exc_hubei_suspected": 0,
+                "asymptomatic_add": "2201"
+            }
+        ],
+        "timeline_n2": [
+            {
+                "time": "2022-05-25",
+                "total_currentConfirmed": "1816518",
+                "total_suspected": "0",
+                "hubei_total_diagnosed": "0",
+                "hubei_total_suspected": "",
+                "exc_hubei_total_diagnosed": 1816518,
+                "exc_hubei_total_suspected": 0,
+                "total_diagnosed": "2114305",
+                "hubei_total_all_diagnosed": "",
+                "exc_hubei_total_all_diagnosed": 2114305
+            },
+            {
+                "time": "2022-05-24",
+                "total_currentConfirmed": "1727570",
+                "total_suspected": "1",
+                "hubei_total_diagnosed": "0",
+                "hubei_total_suspected": "",
+                "exc_hubei_total_diagnosed": 1727570,
+                "exc_hubei_total_suspected": 1,
+                "total_diagnosed": "2024766",
+                "hubei_total_all_diagnosed": "",
+                "exc_hubei_total_all_diagnosed": 2024766
+            },
+            {
+                "time": "2022-05-23",
+                "total_currentConfirmed": "1645523",
+                "total_suspected": "1",
+                "hubei_total_diagnosed": "0",
+                "hubei_total_suspected": "",
+                "exc_hubei_total_diagnosed": 1645523,
+                "exc_hubei_total_suspected": 1,
+                "total_diagnosed": "1942240",
+                "hubei_total_all_diagnosed": "",
+                "exc_hubei_total_all_diagnosed": 1942240
+            },
+            {
+                "time": "2022-05-22",
+                "total_currentConfirmed": "1579603",
+                "total_suspected": "0",
+                "hubei_total_diagnosed": "0",
+                "hubei_total_suspected": "",
+                "exc_hubei_total_diagnosed": 1579603,
+                "exc_hubei_total_suspected": 0,
+                "total_diagnosed": "1875779",
+                "hubei_total_all_diagnosed": "",
+                "exc_hubei_total_all_diagnosed": 1875779
+            },
+            {
+                "time": "2022-05-21",
+                "total_currentConfirmed": "1500325",
+                "total_suspected": "0",
+                "hubei_total_diagnosed": "0",
+                "hubei_total_suspected": "",
+                "exc_hubei_total_diagnosed": 1500325,
+                "exc_hubei_total_suspected": 0,
+                "total_diagnosed": "1796074",
+                "hubei_total_all_diagnosed": "",
+                "exc_hubei_total_all_diagnosed": 1796074
+            },
+            {
+                "time": "2022-05-20",
+                "total_currentConfirmed": "1416159",
+                "total_suspected": "0",
+                "hubei_total_diagnosed": "0",
+                "hubei_total_suspected": "",
+                "exc_hubei_total_diagnosed": 1416159,
+                "exc_hubei_total_suspected": 0,
+                "total_diagnosed": "1711230",
+                "hubei_total_all_diagnosed": "",
+                "exc_hubei_total_all_diagnosed": 1711230
+            },
+            {
+                "time": "2022-05-19",
+                "total_currentConfirmed": "1330729",
+                "total_suspected": "0",
+                "hubei_total_diagnosed": "0",
+                "hubei_total_suspected": "",
+                "exc_hubei_total_diagnosed": 1330729,
+                "exc_hubei_total_suspected": 0,
+                "total_diagnosed": "1625259",
+                "hubei_total_all_diagnosed": "",
+                "exc_hubei_total_all_diagnosed": 1625259
+            },
+            {
+                "time": "2022-05-18",
+                "total_currentConfirmed": "1241549",
+                "total_suspected": "0",
+                "hubei_total_diagnosed": "0",
+                "hubei_total_suspected": "",
+                "exc_hubei_total_diagnosed": 1241549,
+                "exc_hubei_total_suspected": 0,
+                "total_diagnosed": "1535599",
+                "hubei_total_all_diagnosed": "",
+                "exc_hubei_total_all_diagnosed": 1535599
+            },
+            {
+                "time": "2022-05-17",
+                "total_currentConfirmed": "1156731",
+                "total_suspected": "0",
+                "hubei_total_diagnosed": "0",
+                "hubei_total_suspected": "",
+                "exc_hubei_total_diagnosed": 1156731,
+                "exc_hubei_total_suspected": 0,
+                "total_diagnosed": "1450235",
+                "hubei_total_all_diagnosed": "",
+                "exc_hubei_total_all_diagnosed": 1450235
+            },
+            {
+                "time": "2022-05-16",
+                "total_currentConfirmed": "1091157",
+                "total_suspected": "0",
+                "hubei_total_diagnosed": "0",
+                "hubei_total_suspected": "",
+                "exc_hubei_total_diagnosed": 1091157,
+                "exc_hubei_total_suspected": 0,
+                "total_diagnosed": "1384126",
+                "hubei_total_all_diagnosed": "",
+                "exc_hubei_total_all_diagnosed": 1384126
+            },
+            {
+                "time": "2022-05-15",
+                "total_currentConfirmed": "1029769",
+                "total_suspected": "0",
+                "hubei_total_diagnosed": "0",
+                "hubei_total_suspected": "",
+                "exc_hubei_total_diagnosed": 1029769,
+                "exc_hubei_total_suspected": 0,
+                "total_diagnosed": "1322193",
+                "hubei_total_all_diagnosed": "",
+                "exc_hubei_total_all_diagnosed": 1322193
+            },
+            {
+                "time": "2022-05-14",
+                "total_currentConfirmed": "961584",
+                "total_suspected": "0",
+                "hubei_total_diagnosed": "0",
+                "hubei_total_suspected": "",
+                "exc_hubei_total_diagnosed": 961584,
+                "exc_hubei_total_suspected": 0,
+                "total_diagnosed": "1253277",
+                "hubei_total_all_diagnosed": "",
+                "exc_hubei_total_all_diagnosed": 1253277
+            },
+            {
+                "time": "2022-05-13",
+                "total_currentConfirmed": "897914",
+                "total_suspected": "0",
+                "hubei_total_diagnosed": "0",
+                "hubei_total_suspected": "",
+                "exc_hubei_total_diagnosed": 897914,
+                "exc_hubei_total_suspected": 0,
+                "total_diagnosed": "1189026",
+                "hubei_total_all_diagnosed": "",
+                "exc_hubei_total_all_diagnosed": 1189026
+            },
+            {
+                "time": "2022-05-12",
+                "total_currentConfirmed": "833600",
+                "total_suspected": "1",
+                "hubei_total_diagnosed": "0",
+                "hubei_total_suspected": "",
+                "exc_hubei_total_diagnosed": 833600,
+                "exc_hubei_total_suspected": 1,
+                "total_diagnosed": "1123709",
+                "hubei_total_all_diagnosed": "",
+                "exc_hubei_total_all_diagnosed": 1123709
+            }
+        ],
+        "timeline_n3": [
+            {
+                "time": "2022-05-25",
+                "total_cured": "291008",
+                "total_died": "6779",
+                "hubei_total_cured": "",
+                "hubei_total_died": "",
+                "exc_hubei_total_cured": 291008,
+                "exc_hubei_total_died": 6779
+            },
+            {
+                "time": "2022-05-24",
+                "total_cured": "290494",
+                "total_died": "6702",
+                "hubei_total_cured": "",
+                "hubei_total_died": "",
+                "exc_hubei_total_cured": 290494,
+                "exc_hubei_total_died": 6702
+            },
+            {
+                "time": "2022-05-23",
+                "total_cured": "290057",
+                "total_died": "6660",
+                "hubei_total_cured": "",
+                "hubei_total_died": "",
+                "exc_hubei_total_cured": 290057,
+                "exc_hubei_total_died": 6660
+            },
+            {
+                "time": "2022-05-22",
+                "total_cured": "289557",
+                "total_died": "6619",
+                "hubei_total_cured": "",
+                "hubei_total_died": "",
+                "exc_hubei_total_cured": 289557,
+                "exc_hubei_total_died": 6619
+            },
+            {
+                "time": "2022-05-21",
+                "total_cured": "289184",
+                "total_died": "6565",
+                "hubei_total_cured": "",
+                "hubei_total_died": "",
+                "exc_hubei_total_cured": 289184,
+                "exc_hubei_total_died": 6565
+            },
+            {
+                "time": "2022-05-20",
+                "total_cured": "288568",
+                "total_died": "6503",
+                "hubei_total_cured": "",
+                "hubei_total_died": "",
+                "exc_hubei_total_cured": 288568,
+                "exc_hubei_total_died": 6503
+            },
+            {
+                "time": "2022-05-19",
+                "total_cured": "288077",
+                "total_died": "6453",
+                "hubei_total_cured": "",
+                "hubei_total_died": "",
+                "exc_hubei_total_cured": 288077,
+                "exc_hubei_total_died": 6453
+            },
+            {
+                "time": "2022-05-18",
+                "total_cured": "287656",
+                "total_died": "6394",
+                "hubei_total_cured": "",
+                "hubei_total_died": "",
+                "exc_hubei_total_cured": 287656,
+                "exc_hubei_total_died": 6394
+            },
+            {
+                "time": "2022-05-17",
+                "total_cured": "287152",
+                "total_died": "6352",
+                "hubei_total_cured": "",
+                "hubei_total_died": "",
+                "exc_hubei_total_cured": 287152,
+                "exc_hubei_total_died": 6352
+            },
+            {
+                "time": "2022-05-16",
+                "total_cured": "286658",
+                "total_died": "6311",
+                "hubei_total_cured": "",
+                "hubei_total_died": "",
+                "exc_hubei_total_cured": 286658,
+                "exc_hubei_total_died": 6311
+            },
+            {
+                "time": "2022-05-15",
+                "total_cured": "286143",
+                "total_died": "6281",
+                "hubei_total_cured": "",
+                "hubei_total_died": "",
+                "exc_hubei_total_cured": 286143,
+                "exc_hubei_total_died": 6281
+            },
+            {
+                "time": "2022-05-14",
+                "total_cured": "285435",
+                "total_died": "6258",
+                "hubei_total_cured": "",
+                "hubei_total_died": "",
+                "exc_hubei_total_cured": 285435,
+                "exc_hubei_total_died": 6258
+            },
+            {
+                "time": "2022-05-13",
+                "total_cured": "284897",
+                "total_died": "6215",
+                "hubei_total_cured": "",
+                "hubei_total_died": "",
+                "exc_hubei_total_cured": 284897,
+                "exc_hubei_total_died": 6215
+            },
+            {
+                "time": "2022-05-12",
+                "total_cured": "283936",
+                "total_died": "6173",
+                "hubei_total_cured": "",
+                "hubei_total_died": "",
+                "exc_hubei_total_cured": 283936,
+                "exc_hubei_total_died": 6173
+            }
+        ],
+        "timeline_n4": [
+            {
+                "time": "2022-05-25",
+                "cured": "514",
+                "died": "79",
+                "hubei_cured": "",
+                "hubei_died": "",
+                "exc_hubei_cured": null,
+                "exc_hubei_died": null
+            },
+            {
+                "time": "2022-05-24",
+                "cured": "437",
+                "died": "42",
+                "hubei_cured": "",
+                "hubei_died": "",
+                "exc_hubei_cured": null,
+                "exc_hubei_died": null
+            },
+            {
+                "time": "2022-05-23",
+                "cured": "500",
+                "died": "41",
+                "hubei_cured": "",
+                "hubei_died": "",
+                "exc_hubei_cured": null,
+                "exc_hubei_died": null
+            },
+            {
+                "time": "2022-05-22",
+                "cured": "373",
+                "died": "54",
+                "hubei_cured": "",
+                "hubei_died": "",
+                "exc_hubei_cured": null,
+                "exc_hubei_died": null
+            },
+            {
+                "time": "2022-05-21",
+                "cured": "616",
+                "died": "62",
+                "hubei_cured": "",
+                "hubei_died": "",
+                "exc_hubei_cured": null,
+                "exc_hubei_died": null
+            },
+            {
+                "time": "2022-05-20",
+                "cured": "491",
+                "died": "54",
+                "hubei_cured": "",
+                "hubei_died": "",
+                "exc_hubei_cured": null,
+                "exc_hubei_died": null
+            },
+            {
+                "time": "2022-05-19",
+                "cured": "421",
+                "died": "60",
+                "hubei_cured": "",
+                "hubei_died": "",
+                "exc_hubei_cured": null,
+                "exc_hubei_died": null
+            },
+            {
+                "time": "2022-05-18",
+                "cured": "504",
+                "died": "46",
+                "hubei_cured": "",
+                "hubei_died": "",
+                "exc_hubei_cured": null,
+                "exc_hubei_died": null
+            },
+            {
+                "time": "2022-05-17",
+                "cured": "494",
+                "died": "41",
+                "hubei_cured": "",
+                "hubei_died": "",
+                "exc_hubei_cured": null,
+                "exc_hubei_died": null
+            },
+            {
+                "time": "2022-05-16",
+                "cured": "515",
+                "died": "30",
+                "hubei_cured": "",
+                "hubei_died": "",
+                "exc_hubei_cured": null,
+                "exc_hubei_died": null
+            },
+            {
+                "time": "2022-05-15",
+                "cured": "708",
+                "died": "24",
+                "hubei_cured": "",
+                "hubei_died": "",
+                "exc_hubei_cured": null,
+                "exc_hubei_died": null
+            },
+            {
+                "time": "2022-05-14",
+                "cured": "538",
+                "died": "44",
+                "hubei_cured": "",
+                "hubei_died": "",
+                "exc_hubei_cured": null,
+                "exc_hubei_died": null
+            },
+            {
+                "time": "2022-05-13",
+                "cured": "961",
+                "died": "45",
+                "hubei_cured": "",
+                "hubei_died": "",
+                "exc_hubei_cured": null,
+                "exc_hubei_died": null
+            },
+            {
+                "time": "2022-05-12",
+                "cured": "745",
+                "died": "20",
+                "hubei_cured": "",
+                "hubei_died": "",
+                "exc_hubei_cured": null,
+                "exc_hubei_died": null
+            }
+        ],
+        "timeline_n8": [
+            {
+                "time": "2022-05-25",
+                "asymptomatic_add": "415",
+                "asymptomatic": "0"
+            },
+            {
+                "time": "2022-05-24",
+                "asymptomatic_add": "473",
+                "asymptomatic": "0"
+            },
+            {
+                "time": "2022-05-23",
+                "asymptomatic_add": "532",
+                "asymptomatic": "0"
+            },
+            {
+                "time": "2022-05-22",
+                "asymptomatic_add": "682",
+                "asymptomatic": "0"
+            },
+            {
+                "time": "2022-05-21",
+                "asymptomatic_add": "729",
+                "asymptomatic": "0"
+            },
+            {
+                "time": "2022-05-20",
+                "asymptomatic_add": "1010",
+                "asymptomatic": "0"
+            },
+            {
+                "time": "2022-05-19",
+                "asymptomatic_add": "990",
+                "asymptomatic": "0"
+            },
+            {
+                "time": "2022-05-18",
+                "asymptomatic_add": "870",
+                "asymptomatic": "0"
+            },
+            {
+                "time": "2022-05-17",
+                "asymptomatic_add": "1065",
+                "asymptomatic": "0"
+            },
+            {
+                "time": "2022-05-16",
+                "asymptomatic_add": "925",
+                "asymptomatic": "0"
+            },
+            {
+                "time": "2022-05-15",
+                "asymptomatic_add": "1076",
+                "asymptomatic": "0"
+            },
+            {
+                "time": "2022-05-14",
+                "asymptomatic_add": "1550",
+                "asymptomatic": "0"
+            },
+            {
+                "time": "2022-05-13",
+                "asymptomatic_add": "1796",
+                "asymptomatic": "0"
+            },
+            {
+                "time": "2022-05-12",
+                "asymptomatic_add": "2201",
+                "asymptomatic": "0"
+            }
+        ],
+        "timeline_n6": {
+            "categories": [
+                "2022-05-12",
+                "2022-05-13",
+                "2022-05-14",
+                "2022-05-15",
+                "2022-05-16",
+                "2022-05-17",
+                "2022-05-18",
+                "2022-05-19",
+                "2022-05-20",
+                "2022-05-21",
+                "2022-05-22",
+                "2022-05-23",
+                "2022-05-24",
+                "2022-05-25"
+            ],
+            "series": [
+                {
+                    "data": [
+                        17694677,
+                        17727086,
+                        17756627,
+                        17782061,
+                        17795357,
+                        17830429,
+                        17861744,
+                        17889849,
+                        17914957,
+                        17938399,
+                        17957697,
+                        17967672,
+                        17993985,
+                        18017923
+                    ],
+                    "name": "韩国",
+                    "itemStyle": {
+                        "color": "#F81F20"
+                    }
+                },
+                {
+                    "data": [
+                        8217978,
+                        8260356,
+                        8299584,
+                        8338211,
+                        8373056,
+                        8399390,
+                        8433124,
+                        8474651,
+                        8513463,
+                        8552464,
+                        8587421,
+                        8618683,
+                        8641599,
+                        8671121
+                    ],
+                    "name": "日本",
+                    "itemStyle": {
+                        "color": "#FFCF21"
+                    }
+                },
+                {
+                    "data": [
+                        712,
+                        712,
+                        712,
+                        712,
+                        712,
+                        712,
+                        712,
+                        712,
+                        712,
+                        712,
+                        712,
+                        712,
+                        712,
+                        712
+                    ],
+                    "name": "钻石公主号",
+                    "itemStyle": {
+                        "color": "#3FC55F"
+                    }
+                },
+                {
+                    "data": [
+                        16915301,
+                        16954784,
+                        16993813,
+                        17030147,
+                        17057873,
+                        17071649,
+                        17116550,
+                        17147477,
+                        17178199,
+                        17205017,
+                        17229263,
+                        17247552,
+                        17257573,
+                        17288287
+                    ],
+                    "name": "意大利",
+                    "itemStyle": {
+                        "color": "#A56CE4"
+                    }
+                },
+                {
+                    "data": [
+                        474110311,
+                        474526683,
+                        474928202,
+                        475255476,
+                        475466882,
+                        475830933,
+                        478220234,
+                        478745815,
+                        479088263,
+                        479507210,
+                        479710116,
+                        479835110,
+                        480236509,
+                        478699140
+                    ],
+                    "name": "其他",
+                    "itemStyle": {
+                        "color": "#4A94FF"
+                    }
+                }
+            ]
+        },
+        "timeline_n7": [
+            {
+                "time": "2022-05-26",
+                "name": "美国",
+                "diagnosed": 85440340,
+                "suspected": 0,
+                "cured": 81851405,
+                "died": 1030415,
+                "diffDiagnosed": 199324
+            },
+            {
+                "time": "2022-05-26",
+                "name": "德国",
+                "diagnosed": 26205002,
+                "suspected": 0,
+                "cured": 25016800,
+                "died": 139026,
+                "diffDiagnosed": 47176
+            },
+            {
+                "time": "2022-05-26",
+                "name": "澳大利亚",
+                "diagnosed": 7117601,
+                "suspected": 0,
+                "cured": 6722309,
+                "died": 8336,
+                "diffDiagnosed": 46021
+            },
+            {
+                "time": "2022-05-26",
+                "name": "日本",
+                "diagnosed": 8705990,
+                "suspected": 0,
+                "cured": 8353952,
+                "died": 30418,
+                "diffDiagnosed": 34869
+            },
+            {
+                "time": "2022-05-26",
+                "name": "意大利",
+                "diagnosed": 17312432,
+                "suspected": 0,
+                "cured": 16353585,
+                "died": 166264,
+                "diffDiagnosed": 24145
+            },
+            {
+                "time": "2022-05-26",
+                "name": "法国",
+                "diagnosed": 29413371,
+                "suspected": 0,
+                "cured": 28701910,
+                "died": 148056,
+                "diffDiagnosed": 22006
+            },
+            {
+                "time": "2022-05-26",
+                "name": "韩国",
+                "diagnosed": 18036720,
+                "suspected": 0,
+                "cured": 17520369,
+                "died": 24063,
+                "diffDiagnosed": 18797
+            },
+            {
+                "time": "2022-05-26",
+                "name": "爱尔兰",
+                "diagnosed": 1561632,
+                "suspected": 0,
+                "cured": 1532926,
+                "died": 7271,
+                "diffDiagnosed": 9797
+            },
+            {
+                "time": "2022-05-26",
+                "name": "巴西",
+                "diagnosed": 30846602,
+                "suspected": 0,
+                "cured": 29895469,
+                "died": 666112,
+                "diffDiagnosed": 9787
+            },
+            {
+                "time": "2022-05-26",
+                "name": "新西兰",
+                "diagnosed": 1129749,
+                "suspected": 0,
+                "cured": 1078521,
+                "died": 1057,
+                "diffDiagnosed": 7674
+            }
+        ]
+    }
+});
